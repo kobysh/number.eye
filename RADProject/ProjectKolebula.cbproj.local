@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.554,=E:\!KURS.ID\kb.rad.xe2\Study.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,E:\!KURS.ID\kb.rad.xe2\Unit4.dfm=E:\!KURS.ID\kb.rad.xe2\Camera.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,=E:\!KURS.ID\kb.rad.xe2\ruleget.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,E:\!KURS.ID\kb.rad.xe2\Unit4.cpp=E:\!KURS.ID\kb.rad.xe2\Camera.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,=E:\!KURS.ID\kb.rad.xe2\rules_gauss.kb</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,=E:\!KURS.ID\kb.rad.xe2\rules37.kb</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=E:\!KURS.ID\kb.rad.xe2\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.923,E:\!KURS.ID\kb.rad.xe2\Main.h=C:\Users\Kobush\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.034,=C:\Users\Kobush\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,=E:\!KURS.ID\kb.rad.xe2\rules.kb</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,=E:\!KURS.ID\kb.rad.xe2\rules.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,E:\!KURS.ID\kb.rad.xe2\Unit5.cpp=E:\!KURS.ID\kb.rad.xe2\About1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,E:\!KURS.ID\kb.rad.xe2\Unit2.dfm=E:\!KURS.ID\kb.rad.xe2\Setting.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.923,E:\!KURS.ID\kb.rad.xe2\Main.dfm=C:\Users\Kobush\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,=E:\!KURS.ID\kb.rad.xe2\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,E:\!KURS.ID\kb.rad.xe2\Unit5.h=E:\!KURS.ID\kb.rad.xe2\About1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,E:\!KURS.ID\kb.rad.xe2\Unit5.dfm=E:\!KURS.ID\kb.rad.xe2\About1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,E:\!KURS.ID\kb.rad.xe2\Unit2.cpp=E:\!KURS.ID\kb.rad.xe2\Setting.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.511,=E:\!KURS.ID\kb.rad.xe2\Imloc.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.923,E:\!KURS.ID\kb.rad.xe2\Main.cpp=C:\Users\Kobush\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,E:\!KURS.ID\kb.rad.xe2\Unit4.h=E:\!KURS.ID\kb.rad.xe2\Camera.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.299,E:\!KURS.ID\kb.rad.xe2\Unit3.h=E:\!KURS.ID\kb.rad.xe2\FP.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,=E:\!KURS.ID\kb.rad.xe2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,E:\!KURS.ID\kb.rad.xe2\ProjectKolebula.cbproj=C:\Users\Kobush\Documents\RAD Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,=E:\!KURS.ID\kb.rad.xe2\Grad.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,=E:\!KURS.ID\kb.rad.xe2\rules37.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.299,E:\!KURS.ID\kb.rad.xe2\Unit3.dfm=E:\!KURS.ID\kb.rad.xe2\FP.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.320,=E:\!KURS.ID\kb.rad.xe2\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.299,E:\!KURS.ID\kb.rad.xe2\Unit3.cpp=E:\!KURS.ID\kb.rad.xe2\FP.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,E:\!KURS.ID\kb.rad.xe2\Unit2.h=E:\!KURS.ID\kb.rad.xe2\Setting.h</Transaction>
+    <Transaction>2017.03.19 23:45:02.609,=E:\!KURS.ID\help.chm</Transaction>
+  </Transactions>
+</BorlandProject>
